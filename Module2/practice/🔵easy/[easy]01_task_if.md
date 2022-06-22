@@ -15,9 +15,8 @@
 ### Решение задачи
 
 ```python
-# TODO: you code here...
+ukyukyukyukyuk
 ```
-
 ---
 
 ### Данные для самопроверки
